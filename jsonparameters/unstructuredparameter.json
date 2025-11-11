@@ -1,0 +1,18 @@
+[
+	{
+		"source_url" : "refs/heads/main/DMart-UnstructuredData/reviews.json",
+      		"sink_folder" : "DMartBronze_review",
+	        "sink_file" : "Review.json"
+   	 },
+	
+	{
+		"source_url" : "refs/heads/main/DMart-UnstructuredData/social_media.json",
+      		"sink_folder" : "DMartBronze_socialmedia",
+	        "sink_file" : "SocialMedia.json"
+   	 },
+	{
+		"source_url" : "refs/heads/main/DMart-UnstructuredData/web_logs.json",
+      		"sink_folder" : "DMartBronze_web_logs",
+	        "sink_file" : "WebLogs.json"
+   	 }
+]	

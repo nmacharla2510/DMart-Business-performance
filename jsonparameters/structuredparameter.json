@@ -1,0 +1,18 @@
+[
+	{
+		"source_url" : "refs/heads/main/DMart_StructuredData/Orders_Data.csv",
+      		"sink_folder" : "DMartBronze_orders",
+	        "sink_file" : "Orders.csv"
+   	 },
+	
+	{
+		"source_url" : "refs/heads/main/DMart_StructuredData/customers.csv",
+      		"sink_folder" : "DMartBronze_customers",
+	        "sink_file" : "Customers.csv"
+   	 },
+	{
+		"source_url" : "refs/heads/main/DMart_StructuredData/products.csv",
+      		"sink_folder" : "DMartBronze_products",
+	        "sink_file" : "Products.csv"
+   	 }
+]	
