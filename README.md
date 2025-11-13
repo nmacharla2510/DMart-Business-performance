@@ -49,7 +49,7 @@ Leverage structured (transactional, inventory) and unstructured (social media, r
 
 - Created Silver Lakehouse
 - Referenced Bronze files via shortcuts
-- Used PySpark notebooks to: 📓 [View DMart Analysis Sliver Notebook]([notebooks/DMart_Analysis.ipynb](https://github.com/nmacharla2510/DMart-Business-performance/blob/main/pyspark_notebook/DMart_Silver_Transformation.ipynb))
+- Used PySpark notebooks to: 📓 [View DMart Analysis Sliver Notebook](https://github.com/nmacharla2510/DMart-Business-performance/blob/main/pyspark_notebook/DMart_Silver_Transformation.ipynb))
   - Clean and join dataframes
   - Write clean data as Parquet files to Silver Lakehouse
     
@@ -59,7 +59,7 @@ Leverage structured (transactional, inventory) and unstructured (social media, r
 
 - Created Gold Lakehouse
 - Referenced Silver files via shortcuts
-- Used notebooks to: 📓 [View DMart Analysis Gold Notebook]([notebooks/DMart_Analysis.ipynb](https://github.com/nmacharla2510/DMart-Business-performance/blob/main/pyspark_notebook/DMart_Gold_Transformation.ipynb))
+- Used notebooks to: 📓 [View DMart Analysis Gold Notebook](https://github.com/nmacharla2510/DMart-Business-performance/blob/main/pyspark_notebook/DMart_Gold_Transformation.ipynb))
   - Perform aggregations
   - Write final output to Gold Lakehouse
     
