@@ -101,4 +101,4 @@ Leverage structured (transactional, inventory) and unstructured (social media, r
 **Naveen Macharla**  
 Azure Data Engineer | Workflow Optimization Specialist  
 📍 Based in Canada | Open to new opportunities  
-🔗 [LinkedIn](https://www.linkedin.com/in/nmacharla2510) | [GitHub](https://github.com/nmacharla2510)
+🔗 [LinkedIn](https://www.linkedin.com/in/naveen-macharla-pmp-4454b5292) | [GitHub](https://github.com/nmacharla2510/nmacharla2510)
